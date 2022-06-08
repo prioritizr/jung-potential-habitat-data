@@ -4,7 +4,7 @@
 # Potential habitat classification data from Jung 2020
 
 [![lifecycle](https://img.shields.io/badge/Lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html)
-[![DOI](https://img.shields.io/badge/DOI-TODO-blue.svg)](https://doi.org/TODO)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.6622090-blue.svg)](https://doi.org/10.5281/zenodo.6622090)
 
 This repository contains code to generate global potential habitat
 classification data (based on Jung 2020). Specifically, source data are
@@ -15,8 +15,8 @@ the World Behrmann coordinate reference system using (100 m resolution;
 that care should be taken when interpreting these data, because the
 source data were generated at a coarser resolution (250m).** A processed
 version of the data can be downloaded from the [Zenodo Digital
-Repository](https://doi.org/TODO). **All credit should go to Jung
-(2020), please cite their work if you use this dataset.**
+Repository](https://doi.org/10.5281/zenodo.6622090). **All credit should
+go to Jung (2020), please cite their work if you use this dataset.**
 
 <img src="figures/README-map-1.png" style="display: block; margin: auto;" />
 
